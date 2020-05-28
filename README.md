@@ -16,7 +16,7 @@ Microsoft Access 2010
 
 4. Selanjutnya edit pada file Form1.cs
 
-   edit sesuai dengan lokasi database pada directory aplikasi anda
+   Edit sesuai dengan lokasi database pada directory aplikasi anda
    
    Contoh :  String connParam = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=[ directory aplikasi Anda ]\db\db.mdb";
 
